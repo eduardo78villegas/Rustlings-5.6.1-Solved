@@ -1,3 +1,8 @@
+# Ejercicios de Rustlings. (Completados)
+## Curso:IC-4700
+## Leguajes de programación 
+## Profesor: Jose Rafael Castro Mora
+
 # Exercise to Book Chapter mapping
 
 | Exercise               | Book Chapter        |
